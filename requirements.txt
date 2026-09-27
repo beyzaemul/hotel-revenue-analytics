@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+joblib
+psycopg2-binary
+SQLAlchemy
+python-dotenv
+openpyxl
+scikit-learn
