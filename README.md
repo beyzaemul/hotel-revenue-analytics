@@ -5,10 +5,10 @@ Bu proje, otel işletmeleri için geliştirilmiş **veri analitiği, makine öğ
 
 ## Özellikler
 
-* ** Genel Bakış:** Günlük gelir, ortalama oda fiyatı (ADR), rezervasyon ve iptal oranlarını gösteren KPI kartları ve interaktif grafikler.
-* ** Yapay Zeka Tahmini:** Oda fiyatı (€) ve iptal olasılığını (%) tahmin eden Random Forest modelleri.
-* ** Yönetim Raporlama:** Veritabanındaki güncel verileri biçimlendirilmiş Excel (`.xlsx`) raporu olarak indirme imkanı.
-* ** Excel Dashboard:** Veri özetleri ve dinamik filtreler içeren Excel paneli.
+*  Genel Bakış: Günlük gelir, ortalama oda fiyatı (ADR), rezervasyon ve iptal oranlarını gösteren KPI kartları ve interaktif grafikler.
+*  Yapay Zeka Tahmini: Oda fiyatı (€) ve iptal olasılığını (%) tahmin eden Random Forest modelleri.
+*  Yönetim Raporlama: Veritabanındaki güncel verileri biçimlendirilmiş Excel (`.xlsx`) raporu olarak indirme imkanı.
+*  Excel Dashboard: Veri özetleri ve dinamik filtreler içeren Excel paneli.
 
 
 ## Teknolojiler
