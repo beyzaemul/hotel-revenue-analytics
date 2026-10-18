@@ -1,17 +1,17 @@
-# 🏨 Otel Gelir Yönetimi ve Dinamik Fiyatlandırma Portalı
+# Otel Gelir Yönetimi ve Dinamik Fiyatlandırma Portalı
 
 Bu proje, otel işletmeleri için geliştirilmiş **veri analitiği, makine öğrenmesi tabanlı fiyatlandırma/iptal riski tahmini** ve **yönetim raporlama** sunan Streamlit web portalıdır.
 
 
-## 📌 Özellikler
+## Özellikler
 
-* **📊 Genel Bakış:** Günlük gelir, ortalama oda fiyatı (ADR), rezervasyon ve iptal oranlarını gösteren KPI kartları ve interaktif grafikler.
-* **🤖 Yapay Zeka Tahmini:** Oda fiyatı (€) ve iptal olasılığını (%) tahmin eden Random Forest modelleri.
-* **📄 Yönetim Raporlama:** Veritabanındaki güncel verileri biçimlendirilmiş Excel (`.xlsx`) raporu olarak indirme imkanı.
-* **📈 Excel Dashboard:** Veri özetleri ve dinamik filtreler içeren Excel paneli.
+* ** Genel Bakış:** Günlük gelir, ortalama oda fiyatı (ADR), rezervasyon ve iptal oranlarını gösteren KPI kartları ve interaktif grafikler.
+* ** Yapay Zeka Tahmini:** Oda fiyatı (€) ve iptal olasılığını (%) tahmin eden Random Forest modelleri.
+* ** Yönetim Raporlama:** Veritabanındaki güncel verileri biçimlendirilmiş Excel (`.xlsx`) raporu olarak indirme imkanı.
+* ** Excel Dashboard:** Veri özetleri ve dinamik filtreler içeren Excel paneli.
 
 
-## 🛠️ Teknolojiler
+## Teknolojiler
 
 * **Arayüz:** Streamlit, Plotly
 * **Veri & ML:** Pandas, Scikit-Learn, Joblib
@@ -19,7 +19,7 @@ Bu proje, otel işletmeleri için geliştirilmiş **veri analitiği, makine öğ
 * **Raporlama:** OpenPyXL
 
 
-## 📁 Proje Mimarisi
+## Proje Mimarisi
 
 ```text
 hotel-revenue-analytics/
